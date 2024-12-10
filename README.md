@@ -17,3 +17,5 @@
 [https://discord.gg/dz35JTtgGG](https://discord.gg/dz35JTtgGG).  
 
 **Independent Work:** Designed and developed without external dependencies, offering unique features and high quality.  
+
+# THIS IS INCOGNITO, NOT A RAT
